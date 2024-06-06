@@ -3,7 +3,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif)
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer and UI/UX Desginer. A Developer knowing Design basics!!!</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://camo.githubusercontent.com/0e654c5d040e096fcb123baf00442159fcd78a17a9aba2e6a12b9e35765e5e33/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e6769663f6369643d373930623736313162663037313965633432623237336531646430363134353537376330333463306239646137653536267269643d67697068792e6769662663743d67)">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/0e654c5d040e096fcb123baf00442159fcd78a17a9aba2e6a12b9e35765e5e33/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e6769663f6369643d373930623736313162663037313965633432623237336531646430363134353537376330333463306239646137653536267269643d67697068792e6769662663743d67">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VI5H4L&label=Profile%20views&color=0e75b6&style=flat" alt="VI5H4L" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
